@@ -1,142 +1,122 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=%E5%90%95%E6%81%A9%E6%B6%9B+%C2%B7+Lv+Entao;%E7%89%A9%E8%81%94%E7%BD%91+%C2%B7+IoT+Engineer;%E5%B5%8C%E5%85%A5%E5%BC%8F+%C2%B7+Embedded+Developer" alt="Typing SVG" />
+</p>
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
+<p align="center">
+  <a href="https://github.com/lventao"><img src="https://img.shields.io/badge/GitHub-lventao-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:3453528948@qq.com"><img src="https://img.shields.io/badge/Email-3453528948@qq.com-0078D4?style=for-the-badge&logo=microsoft-outlook" /></a>
+</p>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+---
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+## 👋 Hi there
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+我是吕恩涛，就读于**齐鲁师范学院 · 信息科学与工程学院 · 物联网工程专业**。热衷于嵌入式系统、机器视觉与机器人控制，专注于将 AI 落地于物理世界。
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+> *"让代码驱动机械，用视觉理解世界。"*
 
-<br/>  
+---
 
+## 🛠️ Tech Stack
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keil-394049?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/K210-00B4F0?style=for-the-badge&logo=canaan&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arm_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTOS-000000?style=for-the-badge&logo=freertos&logoColor=white" />
+  <img src="https://img.shields.io/badge/I2C_UART_SPI-555555?style=for-the-badge" />
+</p>
 
+### 专长领域
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <sub>🤖 机器人控制</sub>
+    </td>
+    <td align="center" width="96">
+      <sub>👁️ 机器视觉</sub>
+    </td>
+    <td align="center" width="96">
+      <sub>💻 嵌入式系统</sub>
+    </td>
+    <td align="center" width="96">
+      <sub>🧮 逆运动学</sub>
+    </td>
+    <td align="center" width="96">
+      <sub>🔌 通信协议</sub>
+    </td>
+    <td align="center" width="96">
+      <sub>🚗 自动驾驶</sub>
+    </td>
+  </tr>
+</table>
 
-</td><td valign="top" width="33%">
+---
 
+## 📌 Featured Project
 
+<p align="center">
+  <a href="https://github.com/lventao/AIcar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lventao&repo=AIcar&theme=github_dark&hide_border=true" />
+  </a>
+</p>
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+### 🤖 AIcar — 基于机器视觉的实时分拣机器人
 
-</td><td valign="top" width="33%">
+> 本科毕业设计 · 将 K210 视觉芯片 + STM32 嵌入式控制 + 6-DOF 机械臂 + 麦克纳姆轮底盘深度整合的自主分拣系统。
 
+| 模块 | 功能 |
+|:---|:---|
+| 🧠 K210 | YOLOv2 交通标志识别、LAB 色块检测、红绿灯识别 |
+| 🦾 MyArm | 6 轴机械臂控制、自研逆运动学求解、动作组录制回放 |
+| 🚗 底盘 | 4 轮麦克纳姆轮、蓝牙/避障/循迹/视觉 4 模式切换 |
 
+---
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+## 📊 GitHub Stats
 
-</td></tr></table>  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lventao&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lventao&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</p>
 
-<br/>  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lventao&theme=github-dark&hide_border=true" />
+</p>
 
+---
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## 📫 Let's Connect
 
-<br/>  
+<p align="center">
+  <a href="https://github.com/lventao">
+    <img src="https://img.shields.io/badge/GitHub-lventao-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:3453528948@qq.com">
+    <img src="https://img.shields.io/badge/QQ-3453528948-1EBAFC?style=for-the-badge&logo=tencent-qq" />
+  </a>
+  <a href="https://github.com/lventao/AIcar">
+    <img src="https://img.shields.io/badge/Project-AIcar-blue?style=for-the-badge&logo=robot-framework" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lventao&style=flat-square&color=blue" />
+</p>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">
+  <sub>Thanks for stopping by 👋</sub>
+</p>
