@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/lventao"><img src="https://img.shields.io/badge/GitHub-lventao-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:3453528948@qq.com"><img src="https://img.shields.io/badge/Email-3453528948@qq.com-0078D4?style=for-the-badge&logo=microsoft-outlook" /></a>
+  <img src="https://komarev.com/ghpvc/?username=lventao&style=flat-square&color=blue" />
 </p>
 
 ---
@@ -24,51 +25,40 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keil-394049?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keil_MDK-394049?style=for-the-badge&logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/K210-00B4F0?style=for-the-badge&logo=canaan&logoColor=white" />
+  <img src="https://img.shields.io/badge/K210_RISC--V-00B4F0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arm_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/RTOS-000000?style=for-the-badge&logo=freertos&logoColor=white" />
-  <img src="https://img.shields.io/badge/I2C_UART_SPI-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTOS-000000?style=for-the-badge&logo=freertos&logoColor=white" />
+  <img src="https://img.shields.io/badge/I2C_UART_SPI-555555?style=for-the-badge" />
 </p>
 
-### 📂 专长领域
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/robot.png" width="48" /><br/>
-      <sub>机器人控制</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="48" /><br/>
-      <sub>机器视觉</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/cpu.png" width="48" /><br/>
-      <sub>嵌入式系统</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/broken-robot.png" width="48" /><br/>
-      <sub>逆运动学</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/serial-port.png" width="48" /><br/>
-      <sub>通信协议</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/iot.png" width="48" /><br/>
-      <sub>物联网</sub>
-    </td>
-  </tr>
-</table>
+## 📂 专长领域
+
+<p align="center">
+  <code>🤖 机器人控制</code>
+  &nbsp;·&nbsp;
+  <code>👁️ 机器视觉</code>
+  &nbsp;·&nbsp;
+  <code>💻 嵌入式系统</code>
+  &nbsp;·&nbsp;
+  <code>🧮 逆运动学</code>
+  &nbsp;·&nbsp;
+  <code>🔌 通信协议</code>
+  &nbsp;·&nbsp;
+  <code>🌐 物联网</code>
+  &nbsp;·&nbsp;
+  <code>🚗 自动驾驶</code>
+</p>
 
 ---
 
@@ -78,23 +68,20 @@
   <a href="https://github.com/lventao/AIcar">
     <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lventao&repo=AIcar&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/lventao/SmartHome-IoT">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lventao&repo=SmartHome-IoT&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/lventao/GestureArm">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lventao&repo=GestureArm&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/lventao/EdgeMonitor">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lventao&repo=EdgeMonitor&theme=github_dark&hide_border=true" />
-  </a>
 </p>
 
-| 项目 | 技术栈 | 简介 |
+### 🤖 AIcar — 基于机器视觉的实时分拣机器人
+> 本科毕业设计 · K210 + STM32 + 6-DOF 机械臂 + 麦克纳姆轮底盘深度整合的自主分拣系统
+
+&nbsp;
+
+| 💡 更多项目 | 技术栈 | 简介 |
 |:---|:---|:---|
-| 🤖 **AIcar** | K210 + STM32 + 逆运动学 | 机器视觉实时分拣机器人 · 本科毕业设计 |
-| 🏠 **SmartHome-IoT** | ESP32 + MQTT + 小程序 | 多传感器环境监测 · 语音控制 · 远程告警 |
-| 🦾 **GestureArm** | MediaPipe + STM32 + WiFi | 手势关键点识别 · 空间映射 · 无线姿态同步 |
-| 📡 **EdgeMonitor** | Flask + Vue.js + InfluxDB | 设备集群监控 · 数据大屏 · 异常推送 |
+| 🏠 **SmartHome-IoT** | ESP32 + MQTT + 微信小程序 | 多传感器环境监测 · 语音控制家电 · 远程安防告警 |
+| 🦾 **GestureArm** | MediaPipe + STM32 + WiFi | 手势关键点实时识别 · 空间映射逆运动学解算 · 无线姿态同步 |
+| 📡 **EdgeMonitor** | Flask + Vue.js + InfluxDB | 嵌入式设备集群状态监控 · Grafana 数据可视化大屏 · 异常告警推送 |
+| 🔧 **PWM_Contr_V3** | STM32 + 麦克纳姆轮 | 四轮全向底盘控制 · 蓝牙/避障/循迹/视觉 四种工作模式 |
+| 🎛️ **MyArmSTM32** | STM32 + 6-DOF | 六轴机械臂控制器 · 自研逆运动学算法 · PS2手柄/串口双模操控 |
 
 ---
 
@@ -121,12 +108,8 @@
     <img src="https://img.shields.io/badge/QQ-3453528948-1EBAFC?style=for-the-badge&logo=tencent-qq" />
   </a>
   <a href="https://github.com/lventao/AIcar">
-    <img src="https://img.shields.io/badge/Project-AIcar-blue?style=for-the-badge&logo=robot-framework" />
+    <img src="https://img.shields.io/badge/Project-AIcar-blue?style=for-the-badge" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lventao&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
